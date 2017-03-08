@@ -1,5 +1,5 @@
 # smf2mush
-A class for the mushraider for smf login
+A class for http://mushraider.com/ to support a SMF forum login
 
 Place the smf2mush.php on your webserver and change the config stuff on top.
 
@@ -11,4 +11,4 @@ Place the smf2mush.php on your webserver and change the config stuff on top.
 	private $dbUser = "root";
 	private $dbPw = "root";
 
-In the mushraider bridge settigns point now to this file http://myawsomeguild.yolo/smf/smf2mush.php
+In the MushRaider bridge settigns point now to this file http://myawsomeguild.yolo/smf/smf2mush.php
