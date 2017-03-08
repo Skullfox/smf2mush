@@ -1,5 +1,17 @@
 <?php
 header('Content-Type: application/json');
+/* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
+
+/**
+ * smf2Mush class
+ *
+ * A class for http://mushraider.com/ to support a SMF forum login.
+ * Place the class somewhere on you webserver, dont forget to change the settigns, and point in the bridge
+ * settings to /smf2mush.php
+ *
+ * @author     Skullfox
+ * @link       https://github.com/Skullfox/smf2mush
+ */
 
 class smf2Mush{
 
